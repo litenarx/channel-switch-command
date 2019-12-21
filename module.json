@@ -1,0 +1,8 @@
+{
+    "disableAutoUpdate": false,
+    "name": "channel-switch-command-master",
+    "author": "Witch / Tsunpot / Snug",
+    "description": "Switches channels though key inputs.",
+    "supportUrl": "https://github.com/Witch-hue/channel-switch-command/",
+    "servers": ["https://raw.githubusercontent.com/Witch-hue/channel-switch-command/master/"]
+}
